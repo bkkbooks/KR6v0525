@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR6v0525/GA/v1
+canonical_location: https://kanripo.org/bkk/KR6v0525/GA/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 徑山志
+  identifiers:
+    krp: KR6v0525
+    cbeta: GA031n0032
+    cbeta_old_id: GA031n0032
+    authorityid: CA0008123
+    json_key: GA0032
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/GA/GA031/GA031n0032.xml
+    old_id: GA031n0032
+  edition:
+    short: GA
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0525_000-GA.yaml, hash: 'sha256:a5e136a7143a3d1c670fb8ebe5a31d82b7c04c4fc2edd0af71b9b486a307f9fe'}
+  - {seq: 1, filename: KR6v0525_001-GA.yaml, hash: 'sha256:6cfb17f8e2f464040310feb941cc158181d7fa5c8c34b8da13e7c3e0de029241'}
+  - {seq: 2, filename: KR6v0525_002-GA.yaml, hash: 'sha256:92035c10029bed31a71933f2eb0f442af0511ad7c145e29a88ec98b35882a206'}
+  - {seq: 3, filename: KR6v0525_003-GA.yaml, hash: 'sha256:12bea574aa62e27e145820bda2ae6869157ca7d8f1d3b4dfddbb4baa7260de12'}
+  - {seq: 4, filename: KR6v0525_004-GA.yaml, hash: 'sha256:22014e6bc3c4a48590e2c0aab51ab23dd3cc8e551bf2b5808f9e1def9df8b88c'}
+  - {seq: 5, filename: KR6v0525_005-GA.yaml, hash: 'sha256:645ea98c9d6dd0bf3ce90df855df9a556853f3aeda50bd768e60fa1a756078a6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0525_000-GA.markers.yaml, hash: 'sha256:c7fdcb9aa940513253242b83a5df7bda4466c721a89566e22187655f47373bdd'}
+  - {seq: 1, role: markers, filename: assets/KR6v0525_001-GA.markers.yaml, hash: 'sha256:882ac4abd93db9b56e3f65bed77cf99dc8645f5f61909563da3eff4d0afee203'}
+  - {seq: 2, role: markers, filename: assets/KR6v0525_002-GA.markers.yaml, hash: 'sha256:4655d3f9c019158dbd47a797ff80a333d89b8a34a6d737eefc7b3dd1e8c0c0dc'}
+  - {seq: 3, role: markers, filename: assets/KR6v0525_003-GA.markers.yaml, hash: 'sha256:23ef9625a6e4725a8cb6160afbd8e0bfcd1056c597ae22fa02850f0cc78fd97c'}
+  - {seq: 4, role: markers, filename: assets/KR6v0525_004-GA.markers.yaml, hash: 'sha256:ff9f373a87d1085c24b03c57aab7258b85a2a357c8a09c1b896fb327d1f1e59e'}
+  - {seq: 5, role: markers, filename: assets/KR6v0525_005-GA.markers.yaml, hash: 'sha256:f26b18efb1c6b3c8fcb193578e8dca7eac702852206af5a8fdabf8501e92db6a'}
+table_of_contents: []
+hash: sha256:7f4a932d2571ea42ad06aa80d367d52ed8cb173baae25269f2ccdd1c63d35480
